@@ -1,6 +1,6 @@
 # 🍷 JbrCRM - Inovação no Mercado Imobiliário Premium
 
-![JbrCRM Banner](/media__1774833289919.png)
+![JbrCRM Banner](public/media__1774833289919.png)
 
 > O **JbrCRM** é um ecossistema de gestão imobiliária projetado para corretores de alta performance. Unindo **Glassmorphism**, animações fluidas e uma integração robusta com o ecossistema **WordPress** e **Supabase**, este sistema transforma a maneira como o contato com o cliente se torna uma venda fechada.
 
