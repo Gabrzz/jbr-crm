@@ -1,0 +1,53 @@
+{
+  "t": {
+    "3": "tax_type-apartamentos",
+    "83": "tax_type-salas",
+    "104": "tax_type-casa-de-campo",
+    "105": "tax_type-casas",
+    "106": "tax_type-cobertura-duplex",
+    "108": "tax_type-loft-moderno"
+  },
+  "b": {
+    "19": "tax_business-aluguel",
+    "93": "tax_business-venda"
+  },
+  "c": {},
+  "di": {},
+  "m": [
+    "id",
+    "date",
+    "date_gmt",
+    "guid",
+    "modified",
+    "modified_gmt",
+    "slug",
+    "status",
+    "type",
+    "link",
+    "title",
+    "content",
+    "excerpt",
+    "author",
+    "template",
+    "tax_differential",
+    "class_list",
+    "acf",
+    "code_property",
+    "price_property",
+    "bedrooms_property",
+    "bathrooms_property",
+    "garages_property",
+    "rooms_property",
+    "total_area_property",
+    "type_measurements",
+    "address_property",
+    "price_condominium_property",
+    "price_iptu_property",
+    "images_property",
+    "differentials_porperty",
+    "business_property",
+    "type_property",
+    "resolved_images",
+    "_links"
+  ]
+}

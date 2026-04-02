@@ -1,0 +1,6 @@
+{
+  "tax_differential": {
+    "rest_base": "tax_differential",
+    "route": "https://jbrimobiliaria.com.br/wp-json/wp/v2/tax_differential"
+  }
+}

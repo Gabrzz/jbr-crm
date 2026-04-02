@@ -1,0 +1,693 @@
+{
+  "id": 656,
+  "date": "2025-06-16T14:00:25",
+  "date_gmt": "2025-06-16T17:00:25",
+  "guid": {
+    "rendered": "https://dev.imobiwp.com.br/?post_type=properties&#038;p=656"
+  },
+  "modified": "2025-06-29T12:31:14",
+  "modified_gmt": "2025-06-29T15:31:14",
+  "slug": "apartamento-luxuoso",
+  "status": "publish",
+  "type": "properties",
+  "link": "https://jbrimobiliaria.com.br/imovel/apartamento-luxuoso/",
+  "title": {
+    "rendered": "Apartamento Luxuoso"
+  },
+  "content": {
+    "rendered": "<p>Apartamento de luxo situado em uma das áreas mais privilegiadas do Jardins, oferecendo um equilíbrio perfeito entre elegância, conforto e praticidade. Este imóvel de 120m² foi recentemente renovado com acabamentos de alta qualidade, proporcionando um ambiente sofisticado para viver.</p>\n<p>O espaçoso living integrado à sala de jantar é inundado por luz natural graças às amplas janelas que também oferecem uma vista deslumbrante da cidade. A cozinha gourmet é equipada com eletrodomésticos de última geração, bancadas em granito e armários planejados, sendo o ambiente ideal para os amantes da gastronomia.</p>\n<p>A suíte master dispõe de um closet espaçoso e banheiro privativo com banheira de hidromassagem. Os outros dois quartos são amplos e compartilham um banheiro completo com acabamentos em mármore e metais de alta qualidade.</p>\n<p>O condomínio oferece segurança 24 horas, academia completa, piscina aquecida, playground para crianças. Localizado a poucos passos de restaurantes renomados, boutiques exclusivas e do Parque Ibirapuera, este apartamento combina perfeitamente a tranquilidade de uma área residencial com a conveniência urbana.</p>\n<p>Este imóvel é uma oportunidade rara no mercado atual &#8211; agende sua visita hoje mesmo para garantir esta excelente opção de moradia ou investimento.</p>\n",
+    "protected": false
+  },
+  "excerpt": {
+    "rendered": "<p>Apartamento luxuoso em Jardins, 120m², 4 quartos, 2 banheiros, acabamento premium, vista deslumbrante e área de lazer completa. Localização privilegiada em São Paulo.</p>\n",
+    "protected": false
+  },
+  "author": 1,
+  "template": "",
+  "tax_differential": [
+    13,
+    24,
+    29,
+    36,
+    38,
+    2,
+    68,
+    69,
+    73,
+    82,
+    86,
+    87
+  ],
+  "class_list": [
+    "post-656",
+    "properties",
+    "type-properties",
+    "status-publish",
+    "hentry",
+    "tax_district-morumbi",
+    "tax_city-sao-paulo",
+    "tax_condition-lancamentos",
+    "tax_business-venda",
+    "tax_type-apartamentos"
+  ],
+  "acf": [],
+  "code_property": "12",
+  "price_property": "900000",
+  "bedrooms_property": "4",
+  "bathrooms_property": "2",
+  "garages_property": "",
+  "rooms_property": "",
+  "total_area_property": "120",
+  "type_measurements": "square_meters",
+  "address_property": "",
+  "price_condominium_property": "1200",
+  "price_iptu_property": "4600",
+  "images_property": [
+    "1693",
+    "1692",
+    "1689",
+    "1694",
+    "1695",
+    "1691",
+    "1690",
+    "1696",
+    "1697"
+  ],
+  "differentials_porperty": [
+    "13",
+    "24",
+    "29",
+    "36",
+    "38",
+    "2",
+    "68",
+    "69",
+    "73",
+    "82",
+    "86",
+    "87"
+  ],
+  "business_property": "93",
+  "type_property": "3",
+  "resolved_images": [
+    "https://jbrimobiliaria.com.br/wp-content/uploads/2025/06/apartamento-luxuoso.avif",
+    "https://jbrimobiliaria.com.br/wp-content/uploads/2025/06/cobertura-com-vista.avif",
+    "https://jbrimobiliaria.com.br/wp-content/uploads/2025/06/apartamento-de-luxo.avif",
+    "https://jbrimobiliaria.com.br/wp-content/uploads/2025/06/casa-com-piscina-scaled-1.avif",
+    "https://jbrimobiliaria.com.br/wp-content/uploads/2025/06/slide-01.avif",
+    "https://jbrimobiliaria.com.br/wp-content/uploads/2025/06/apartament-venda.avif",
+    "https://jbrimobiliaria.com.br/wp-content/uploads/2025/06/casa-com-varanda.avif",
+    "https://jbrimobiliaria.com.br/wp-content/uploads/2025/06/post-002.jpg",
+    "https://jbrimobiliaria.com.br/wp-content/uploads/2025/06/apartamentos.jpg"
+  ],
+  "_links": {
+    "self": [
+      {
+        "href": "https://jbrimobiliaria.com.br/wp-json/wp/v2/properties/656",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://jbrimobiliaria.com.br/wp-json/wp/v2/properties"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://jbrimobiliaria.com.br/wp-json/wp/v2/types/properties"
+      }
+    ],
+    "author": [
+      {
+        "embeddable": true,
+        "href": "https://jbrimobiliaria.com.br/wp-json/wp/v2/users/1"
+      }
+    ],
+    "wp:attachment": [
+      {
+        "href": "https://jbrimobiliaria.com.br/wp-json/wp/v2/media?parent=656"
+      }
+    ],
+    "wp:term": [
+      {
+        "taxonomy": "tax_differential",
+        "embeddable": true,
+        "href": "https://jbrimobiliaria.com.br/wp-json/wp/v2/tax_differential?post=656"
+      }
+    ],
+    "curies": [
+      {
+        "name": "wp",
+        "href": "https://api.w.org/{rel}",
+        "templated": true
+      }
+    ]
+  },
+  "_embedded": {
+    "author": [
+      {
+        "id": 1,
+        "name": "jbrimobiliaria",
+        "url": "https://jbrimobiliaria.com.br",
+        "description": "",
+        "link": "https://jbrimobiliaria.com.br/autor/admin/",
+        "slug": "admin",
+        "avatar_urls": {
+          "24": "https://secure.gravatar.com/avatar/5db29fe530321c4166dea341c80e623191b455480214307ecd8bfafad09026b3?s=24&d=mm&r=g",
+          "48": "https://secure.gravatar.com/avatar/5db29fe530321c4166dea341c80e623191b455480214307ecd8bfafad09026b3?s=48&d=mm&r=g",
+          "96": "https://secure.gravatar.com/avatar/5db29fe530321c4166dea341c80e623191b455480214307ecd8bfafad09026b3?s=96&d=mm&r=g"
+        },
+        "acf": [],
+        "_links": {
+          "self": [
+            {
+              "href": "https://jbrimobiliaria.com.br/wp-json/wp/v2/users/1",
+              "targetHints": {
+                "allow": [
+                  "GET"
+                ]
+              }
+            }
+          ],
+          "collection": [
+            {
+              "href": "https://jbrimobiliaria.com.br/wp-json/wp/v2/users"
+            }
+          ]
+        }
+      }
+    ],
+    "wp:term": [
+      [
+        {
+          "id": 13,
+          "link": "https://jbrimobiliaria.com.br/diferencial/academia/",
+          "name": "Academia",
+          "slug": "academia",
+          "taxonomy": "tax_differential",
+          "acf": [],
+          "_links": {
+            "self": [
+              {
+                "href": "https://jbrimobiliaria.com.br/wp-json/wp/v2/tax_differential/13",
+                "targetHints": {
+                  "allow": [
+                    "GET"
+                  ]
+                }
+              }
+            ],
+            "collection": [
+              {
+                "href": "https://jbrimobiliaria.com.br/wp-json/wp/v2/tax_differential"
+              }
+            ],
+            "about": [
+              {
+                "href": "https://jbrimobiliaria.com.br/wp-json/wp/v2/taxonomies/tax_differential"
+              }
+            ],
+            "wp:post_type": [
+              {
+                "href": "https://jbrimobiliaria.com.br/wp-json/wp/v2/properties?tax_differential=13"
+              }
+            ],
+            "curies": [
+              {
+                "name": "wp",
+                "href": "https://api.w.org/{rel}",
+                "templated": true
+              }
+            ]
+          }
+        },
+        {
+          "id": 24,
+          "link": "https://jbrimobiliaria.com.br/diferencial/bicicletario/",
+          "name": "Bicicletário",
+          "slug": "bicicletario",
+          "taxonomy": "tax_differential",
+          "acf": [],
+          "_links": {
+            "self": [
+              {
+                "href": "https://jbrimobiliaria.com.br/wp-json/wp/v2/tax_differential/24",
+                "targetHints": {
+                  "allow": [
+                    "GET"
+                  ]
+                }
+              }
+            ],
+            "collection": [
+              {
+                "href": "https://jbrimobiliaria.com.br/wp-json/wp/v2/tax_differential"
+              }
+            ],
+            "about": [
+              {
+                "href": "https://jbrimobiliaria.com.br/wp-json/wp/v2/taxonomies/tax_differential"
+              }
+            ],
+            "wp:post_type": [
+              {
+                "href": "https://jbrimobiliaria.com.br/wp-json/wp/v2/properties?tax_differential=24"
+              }
+            ],
+            "curies": [
+              {
+                "name": "wp",
+                "href": "https://api.w.org/{rel}",
+                "templated": true
+              }
+            ]
+          }
+        },
+        {
+          "id": 29,
+          "link": "https://jbrimobiliaria.com.br/diferencial/churrasqueira/",
+          "name": "Churrasqueira",
+          "slug": "churrasqueira",
+          "taxonomy": "tax_differential",
+          "acf": [],
+          "_links": {
+            "self": [
+              {
+                "href": "https://jbrimobiliaria.com.br/wp-json/wp/v2/tax_differential/29",
+                "targetHints": {
+                  "allow": [
+                    "GET"
+                  ]
+                }
+              }
+            ],
+            "collection": [
+              {
+                "href": "https://jbrimobiliaria.com.br/wp-json/wp/v2/tax_differential"
+              }
+            ],
+            "about": [
+              {
+                "href": "https://jbrimobiliaria.com.br/wp-json/wp/v2/taxonomies/tax_differential"
+              }
+            ],
+            "wp:post_type": [
+              {
+                "href": "https://jbrimobiliaria.com.br/wp-json/wp/v2/properties?tax_differential=29"
+              }
+            ],
+            "curies": [
+              {
+                "name": "wp",
+                "href": "https://api.w.org/{rel}",
+                "templated": true
+              }
+            ]
+          }
+        },
+        {
+          "id": 36,
+          "link": "https://jbrimobiliaria.com.br/diferencial/cozinha-gourmet-integrada/",
+          "name": "Cozinha gourmet integrada",
+          "slug": "cozinha-gourmet-integrada",
+          "taxonomy": "tax_differential",
+          "acf": [],
+          "_links": {
+            "self": [
+              {
+                "href": "https://jbrimobiliaria.com.br/wp-json/wp/v2/tax_differential/36",
+                "targetHints": {
+                  "allow": [
+                    "GET"
+                  ]
+                }
+              }
+            ],
+            "collection": [
+              {
+                "href": "https://jbrimobiliaria.com.br/wp-json/wp/v2/tax_differential"
+              }
+            ],
+            "about": [
+              {
+                "href": "https://jbrimobiliaria.com.br/wp-json/wp/v2/taxonomies/tax_differential"
+              }
+            ],
+            "wp:post_type": [
+              {
+                "href": "https://jbrimobiliaria.com.br/wp-json/wp/v2/properties?tax_differential=36"
+              }
+            ],
+            "curies": [
+              {
+                "name": "wp",
+                "href": "https://api.w.org/{rel}",
+                "templated": true
+              }
+            ]
+          }
+        },
+        {
+          "id": 38,
+          "link": "https://jbrimobiliaria.com.br/diferencial/elevador/",
+          "name": "Elevador",
+          "slug": "elevador",
+          "taxonomy": "tax_differential",
+          "acf": [],
+          "_links": {
+            "self": [
+              {
+                "href": "https://jbrimobiliaria.com.br/wp-json/wp/v2/tax_differential/38",
+                "targetHints": {
+                  "allow": [
+                    "GET"
+                  ]
+                }
+              }
+            ],
+            "collection": [
+              {
+                "href": "https://jbrimobiliaria.com.br/wp-json/wp/v2/tax_differential"
+              }
+            ],
+            "about": [
+              {
+                "href": "https://jbrimobiliaria.com.br/wp-json/wp/v2/taxonomies/tax_differential"
+              }
+            ],
+            "wp:post_type": [
+              {
+                "href": "https://jbrimobiliaria.com.br/wp-json/wp/v2/properties?tax_differential=38"
+              }
+            ],
+            "curies": [
+              {
+                "name": "wp",
+                "href": "https://api.w.org/{rel}",
+                "templated": true
+              }
+            ]
+          }
+        },
+        {
+          "id": 2,
+          "link": "https://jbrimobiliaria.com.br/diferencial/piscina/",
+          "name": "Piscina",
+          "slug": "piscina",
+          "taxonomy": "tax_differential",
+          "acf": [],
+          "_links": {
+            "self": [
+              {
+                "href": "https://jbrimobiliaria.com.br/wp-json/wp/v2/tax_differential/2",
+                "targetHints": {
+                  "allow": [
+                    "GET"
+                  ]
+                }
+              }
+            ],
+            "collection": [
+              {
+                "href": "https://jbrimobiliaria.com.br/wp-json/wp/v2/tax_differential"
+              }
+            ],
+            "about": [
+              {
+                "href": "https://jbrimobiliaria.com.br/wp-json/wp/v2/taxonomies/tax_differential"
+              }
+            ],
+            "wp:post_type": [
+              {
+                "href": "https://jbrimobiliaria.com.br/wp-json/wp/v2/properties?tax_differential=2"
+              }
+            ],
+            "curies": [
+              {
+                "name": "wp",
+                "href": "https://api.w.org/{rel}",
+                "templated": true
+              }
+            ]
+          }
+        },
+        {
+          "id": 68,
+          "link": "https://jbrimobiliaria.com.br/diferencial/playground/",
+          "name": "Playground",
+          "slug": "playground",
+          "taxonomy": "tax_differential",
+          "acf": [],
+          "_links": {
+            "self": [
+              {
+                "href": "https://jbrimobiliaria.com.br/wp-json/wp/v2/tax_differential/68",
+                "targetHints": {
+                  "allow": [
+                    "GET"
+                  ]
+                }
+              }
+            ],
+            "collection": [
+              {
+                "href": "https://jbrimobiliaria.com.br/wp-json/wp/v2/tax_differential"
+              }
+            ],
+            "about": [
+              {
+                "href": "https://jbrimobiliaria.com.br/wp-json/wp/v2/taxonomies/tax_differential"
+              }
+            ],
+            "wp:post_type": [
+              {
+                "href": "https://jbrimobiliaria.com.br/wp-json/wp/v2/properties?tax_differential=68"
+              }
+            ],
+            "curies": [
+              {
+                "name": "wp",
+                "href": "https://api.w.org/{rel}",
+                "templated": true
+              }
+            ]
+          }
+        },
+        {
+          "id": 69,
+          "link": "https://jbrimobiliaria.com.br/diferencial/portaria-com-controle-de-acesso/",
+          "name": "Portaria com controle de acesso",
+          "slug": "portaria-com-controle-de-acesso",
+          "taxonomy": "tax_differential",
+          "acf": [],
+          "_links": {
+            "self": [
+              {
+                "href": "https://jbrimobiliaria.com.br/wp-json/wp/v2/tax_differential/69",
+                "targetHints": {
+                  "allow": [
+                    "GET"
+                  ]
+                }
+              }
+            ],
+            "collection": [
+              {
+                "href": "https://jbrimobiliaria.com.br/wp-json/wp/v2/tax_differential"
+              }
+            ],
+            "about": [
+              {
+                "href": "https://jbrimobiliaria.com.br/wp-json/wp/v2/taxonomies/tax_differential"
+              }
+            ],
+            "wp:post_type": [
+              {
+                "href": "https://jbrimobiliaria.com.br/wp-json/wp/v2/properties?tax_differential=69"
+              }
+            ],
+            "curies": [
+              {
+                "name": "wp",
+                "href": "https://api.w.org/{rel}",
+                "templated": true
+              }
+            ]
+          }
+        },
+        {
+          "id": 73,
+          "link": "https://jbrimobiliaria.com.br/diferencial/quadra/",
+          "name": "Quadra",
+          "slug": "quadra",
+          "taxonomy": "tax_differential",
+          "acf": [],
+          "_links": {
+            "self": [
+              {
+                "href": "https://jbrimobiliaria.com.br/wp-json/wp/v2/tax_differential/73",
+                "targetHints": {
+                  "allow": [
+                    "GET"
+                  ]
+                }
+              }
+            ],
+            "collection": [
+              {
+                "href": "https://jbrimobiliaria.com.br/wp-json/wp/v2/tax_differential"
+              }
+            ],
+            "about": [
+              {
+                "href": "https://jbrimobiliaria.com.br/wp-json/wp/v2/taxonomies/tax_differential"
+              }
+            ],
+            "wp:post_type": [
+              {
+                "href": "https://jbrimobiliaria.com.br/wp-json/wp/v2/properties?tax_differential=73"
+              }
+            ],
+            "curies": [
+              {
+                "name": "wp",
+                "href": "https://api.w.org/{rel}",
+                "templated": true
+              }
+            ]
+          }
+        },
+        {
+          "id": 82,
+          "link": "https://jbrimobiliaria.com.br/diferencial/salao-de-jogos/",
+          "name": "Salão de jogos",
+          "slug": "salao-de-jogos",
+          "taxonomy": "tax_differential",
+          "acf": [],
+          "_links": {
+            "self": [
+              {
+                "href": "https://jbrimobiliaria.com.br/wp-json/wp/v2/tax_differential/82",
+                "targetHints": {
+                  "allow": [
+                    "GET"
+                  ]
+                }
+              }
+            ],
+            "collection": [
+              {
+                "href": "https://jbrimobiliaria.com.br/wp-json/wp/v2/tax_differential"
+              }
+            ],
+            "about": [
+              {
+                "href": "https://jbrimobiliaria.com.br/wp-json/wp/v2/taxonomies/tax_differential"
+              }
+            ],
+            "wp:post_type": [
+              {
+                "href": "https://jbrimobiliaria.com.br/wp-json/wp/v2/properties?tax_differential=82"
+              }
+            ],
+            "curies": [
+              {
+                "name": "wp",
+                "href": "https://api.w.org/{rel}",
+                "templated": true
+              }
+            ]
+          }
+        },
+        {
+          "id": 86,
+          "link": "https://jbrimobiliaria.com.br/diferencial/sauna-seca-e-umida/",
+          "name": "Sauna seca e úmida",
+          "slug": "sauna-seca-e-umida",
+          "taxonomy": "tax_differential",
+          "acf": [],
+          "_links": {
+            "self": [
+              {
+                "href": "https://jbrimobiliaria.com.br/wp-json/wp/v2/tax_differential/86",
+                "targetHints": {
+                  "allow": [
+                    "GET"
+                  ]
+                }
+              }
+            ],
+            "collection": [
+              {
+                "href": "https://jbrimobiliaria.com.br/wp-json/wp/v2/tax_differential"
+              }
+            ],
+            "about": [
+              {
+                "href": "https://jbrimobiliaria.com.br/wp-json/wp/v2/taxonomies/tax_differential"
+              }
+            ],
+            "wp:post_type": [
+              {
+                "href": "https://jbrimobiliaria.com.br/wp-json/wp/v2/properties?tax_differential=86"
+              }
+            ],
+            "curies": [
+              {
+                "name": "wp",
+                "href": "https://api.w.org/{rel}",
+                "templated": true
+              }
+            ]
+          }
+        },
+        {
+          "id": 87,
+          "link": "https://jbrimobiliaria.com.br/diferencial/seguranca-24-horas/",
+          "name": "Segurança 24 horas",
+          "slug": "seguranca-24-horas",
+          "taxonomy": "tax_differential",
+          "acf": [],
+          "_links": {
+            "self": [
+              {
+                "href": "https://jbrimobiliaria.com.br/wp-json/wp/v2/tax_differential/87",
+                "targetHints": {
+                  "allow": [
+                    "GET"
+                  ]
+                }
+              }
+            ],
+            "collection": [
+              {
+                "href": "https://jbrimobiliaria.com.br/wp-json/wp/v2/tax_differential"
+              }
+            ],
+            "about": [
+              {
+                "href": "https://jbrimobiliaria.com.br/wp-json/wp/v2/taxonomies/tax_differential"
+              }
+            ],
+            "wp:post_type": [
+              {
+                "href": "https://jbrimobiliaria.com.br/wp-json/wp/v2/properties?tax_differential=87"
+              }
+            ],
+            "curies": [
+              {
+                "name": "wp",
+                "href": "https://api.w.org/{rel}",
+                "templated": true
+              }
+            ]
+          }
+        }
+      ]
+    ]
+  }
+}
